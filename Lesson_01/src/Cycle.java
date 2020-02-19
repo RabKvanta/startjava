@@ -10,19 +10,12 @@ public class Cycle {
             System.out.println("k= " + k);
             k = k + 2;
         }
-        System.out.println(" ");
+        System.out.println();
+        int sumOdd = 0;
+        for (int i = 11; i < 20; i += 2) {
+            sumOdd += i;
+        }
 
-        int j = 1;
-        int result = 9;
-        do {
-            result = result + j;
-            if (result % 2 != 0) {
-                System.out.println("Number " + result + " no event");
-            } else if (result % 2 == 0) {
-                System.out.println("Nubber " + result + " event");
-            }
-            j++;
-        } while (j <= 11);
-        System.out.println("11 + 13 + 15 + 17 + 19 = " + result);
+        System.out.println("sum odd values 10..20 = " + sumOdd);
     }
 }
