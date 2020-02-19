@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ccea82a-9de9-4b23-89c3-8a45a60714be" name="Default Changelist" comment="" />
+    <list default="true" id="3ccea82a-9de9-4b23-89c3-8a45a60714be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582144700762</updated>
       <workItem from="1582144702821" duration="2454000" />
+      <workItem from="1582154204346" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="Variant Ira">
       <created>1582144994252</created>
@@ -104,11 +107,29 @@
       <option name="project" value="LOCAL" />
       <updated>1582148117592</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Variant My">
+      <created>1582154336325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582154336325</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variant Ira" />
@@ -121,10 +142,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582144834594" />
-    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1582148115557">
+    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1582154333803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582148115557" />
+    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582154333803" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582148154080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
