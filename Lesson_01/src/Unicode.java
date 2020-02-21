@@ -11,11 +11,11 @@ public class Unicode {
             System.out.print(ch+" ");
         }
         System.out.println();
-/*
+
           for (char ch=9398; ch <= 10178; ch++) {
-              System.out.println(ch);
+              System.out.print(ch+" ");
           }
 
- */
+
     }
 }
